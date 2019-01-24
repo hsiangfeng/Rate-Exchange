@@ -1,5 +1,5 @@
-var wrap = new Vue({
-    el: '#wrap',
+var app = new Vue({
+    el: '#app',
     data: {
         NT: 0,
         US: 30.475,
